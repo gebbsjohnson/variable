@@ -49,3 +49,7 @@ Pointers:
 Pointers are variables that store memory addresses.
 They are used to work with dynamic memory allocation and to manipulate memory directly.
 Pointer types are derived from other types by appending *
+
+Tuple: Similar to a list, but immutable (cannot be changed).
+Example: coordinates = (10, 20)
+
