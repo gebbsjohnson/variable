@@ -56,3 +56,8 @@ Example: coordinates = (10, 20)
 age = 25
 count = 10
 
+char: Used to store single characters.
+wchar_t: Used to store wide characters (larger character set than char).
+char16_t, char32_t: Used to store UTF-16 and UTF-32 characters, respectively.
+Boolean Variable:
+
