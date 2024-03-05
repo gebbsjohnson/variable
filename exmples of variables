@@ -64,4 +64,6 @@ Boolean Variable:
 Tuple: Similar to a list, but immutable (cannot be changed).
 Example: coordinates = (10, 20)
 
+Integer: Stores whole numbers without any decimal points.
+Example: age = 25
 
