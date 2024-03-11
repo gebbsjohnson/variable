@@ -4,6 +4,9 @@ Example: age = 25
 Float: Stores numbers with decimal points.
 Example: price = 10.99
 
+Float: Stores numbers with decimal points.
+Example: price = 10.99
+
 String: Stores text or characters.
 Example: name = "John"
 
