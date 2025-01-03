@@ -1,3 +1,4 @@
 Variables are fundamental building blocks in programming.
 A variable acts as a container for storing data values.
 They allow developers to label and manage data in their code.
+Think of a variable as a named memory location.
