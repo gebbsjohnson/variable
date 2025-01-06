@@ -4,3 +4,4 @@ They allow developers to label and manage data in their code.
 Think of a variable as a named memory location.
 This memory location holds the data assigned to the variable.
 Variables are used to store, retrieve, and manipulate information.
+They make programs flexible by allowing dynamic changes in data.
